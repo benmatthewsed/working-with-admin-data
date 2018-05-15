@@ -37,6 +37,7 @@ Workflow
 -   Wilson et al. 2017, Good Enough Practices for Scientific Computing - <http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/>
 -   Long 2009, Principles of Workflow in Data Analysis in Stata, Stata Press
 -   Gayle and Lambert 2017, The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis - <http://eprints.ncrm.ac.uk/4000/>
+-   Healy 2018, The Plain Person's Guide to Plain Text Social Science - <http://plain-text.co/>
 
 ### Coding style
 
