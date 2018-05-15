@@ -115,7 +115,8 @@ Missing data
 
 -   Seaman and White 2011, Review of inverse probability weighting for dealing with missing data, Statistical Methods in Medical Research 22(3) 278-295 - <https://www.ncbi.nlm.nih.gov/pubmed/21220355>
 -   Soley-Bori, M. (2013) Dealing with missing data: Key assumptions and methods for applied analysis. Technical Report No 4 - <https://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf>
--   Allison 2012, Handling Missing Data by Maximum Likelihood, SAS Global Forum 2012, Paper 312-2012 - <http://www.statisticalhorizons.com/wp-content/uploads/MissingDataByML.pdf> M- edeiros 2016, Handling missing data in Stata: Imputation and likelihood-based approaches, 2016 Swiss Stata Users Group meeting (powerpoint) - <https://www.stata.com/meeting/switzerland16/slides/medeiros-switzerland16.pdf>
+-   Allison 2012, Handling Missing Data by Maximum Likelihood, SAS Global Forum 2012, Paper 312-2012 - <http://www.statisticalhorizons.com/wp-content/uploads/MissingDataByML.pdf>
+-   Medeiros 2016, Handling missing data in Stata: Imputation and likelihood-based approaches, 2016 Swiss Stata Users Group meeting (powerpoint) - <https://www.stata.com/meeting/switzerland16/slides/medeiros-switzerland16.pdf>
 
 Data visualization
 ------------------
