@@ -30,6 +30,7 @@ General texts
 -   UCLA Institute for Digital Research and Education (covers both Stata and R) - <https://stats.idre.ucla.edu/>
 -   UNC Carolina Population Centre nd, Introduction to Stata - <http://www.cpc.unc.edu/research/tools/data_analysis/statatutorial/>
 -   Stata Corp, Resources for learning Stata - <https://www.stata.com/links/resources-for-learning-stata/>
+-   Baum 2013, Using Stata for data management and reproducible research: <https://www.birmingham.ac.uk/Documents/college-social-sciences/business/economics/kit-baum-workshops/Bham13P1slides.pdf>
 
 Workflow
 --------
@@ -109,6 +110,7 @@ Dates and times
 ---------------
 
 -   Grolemund and Wickham (2017), R for Data Science (Chapter 16: Dates and times) - <http://r4ds.had.co.nz/dates-and-times.html>
+-   Stata Corp nd, Working with dates and times <https://www.stata.com/manuals13/u24.pdf>
 
 Missing data
 ------------
