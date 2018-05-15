@@ -1,0 +1,133 @@
+Working With Administrative Data Training Course - References
+================
+ADRC-Scotland
+2018-05-15
+
+References/reading list for training course
+===========================================
+
+Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
+
+Cheat sheets
+------------
+
+### R
+
+<https://www.rstudio.com/resources/cheatsheets/>
+
+### Stata
+
+<https://geocenter.github.io/StataTraining/>
+
+General texts
+-------------
+
+-   Grolemund and Wickham 2017, R for Data Science - <http://r4ds.had.co.nz>
+-   Chafetz et al. 2016, Fundamentals of data analysis and visualization (Stata) - <https://geocenter.github.io/StataTraining/>
+-   Social Science Computing Cooperative nd, Articles on Statistical Computing - <https://www.ssc.wisc.edu/sscc/pubs/stat.htm>
+-   Rodriguez nd, R tutorial - <http://data.princeton.edu/R/>
+-   Rodriguez nd, Stata tutorial - <http://data.princeton.edu/stata/>
+-   UCLA Institute for Digital Research and Education (covers both Stata and R) - <https://stats.idre.ucla.edu/>
+-   UNC Carolina Population Centre nd, Introduction to Stata - <http://www.cpc.unc.edu/research/tools/data_analysis/statatutorial/>
+-   Stata Corp, Resources for learning Stata - <https://www.stata.com/links/resources-for-learning-stata/>
+
+Workflow
+--------
+
+-   Wilson et al. 2017, Good Enough Practices for Scientific Computing - <http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/>
+-   Long 2009, Principles of Workflow in Data Analysis in Stata, Stata Press
+-   Gayle and Lambert 2017, The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis - <http://eprints.ncrm.ac.uk/4000/>
+
+### Coding style
+
+-   Cox 2005, Suggestions on Stata programming style - <http://www.stata-journal.com/sjpdf.html?articlenum=pr0018>
+-   Wickham 2014, Style guide (Advanced R) - <http://adv-r.had.co.nz/Style.html>
+
+### Iteration and Programming
+
+#### R
+
+-   Grolemund and Wickham 2017, Section III/Program - <http://r4ds.had.co.nz/functions.html>
+-   Bryan nd, purrr \[R package\] tutorial - <https://jennybc.github.io/purrr-tutorial/>
+-   All the talks by Jenny Bryan at <https://speakerdeck.com/jennybc>
+-   Thompson 2017, Introduction to purrr - <https://github.com/jenniferthompson/RLadiesIntroToPurrr/blob/master/intro_purrr.pdf>
+
+#### Stata
+
+-   Social Science Computing Cooperative nd, Stata Programming Essentials - <https://www.ssc.wisc.edu/sscc/pubs/stata_prog1.htm>
+-   Social Science Computing Cooperative nd, Stata Programming Tools - <https://www.ssc.wisc.edu/sscc/pubs/stata_prog2.htm>
+
+### Keyboard shortcuts
+
+-   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press Alt+Shift+K in RStudio)
+-   Higgs 2014, Keyboard shortcuts for Stata/IC 13 - <http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/>
+
+### R's pipe operator `%>%`
+
+-   Bache 2014, Magrittr Vignette - <https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html>
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 18: Pipes) - r4ds.had.co.nz/pipes.html\#pipes
+
+### Literate programming
+
+-   Xie 2018, bookdown: Authoring Books and Technical Documents with R Markdown - <https://bookdown.org/yihui/bookdown/>
+
+Data Tidying
+------------
+
+-   Wickham 2014, Tidy Data, Journal of Statistical Software, 59 - <https://www.jstatsoft.org/article/view/v059i10>
+-   Grolemund and Wickham (2017), R for Data Science (Chapter 5: Data transformation) - <http://r4ds.had.co.nz/transform.html>
+-   Grace-Martin nd, The Wide and Long Data Format for Repeated Measures Data - <http://www.theanalysisfactor.com/wide-and-long-data/>
+
+### Regular Expressions (regex)
+
+-   Li and Bryan 2014, Regular Expression in R - <http://stat545.com/block022_regular-expression.html>
+-   Turner nd, What are regular expressions and how can I use them in Stata? - <https://www.stata.com/support/faqs/data-management/regular-expressions/>
+
+### R only - manipulating lists
+
+-   Grolemund and Wickham (2017), R for Data Science (Chapter 25: Many models) - <http://r4ds.had.co.nz/many-models.html>
+-   Bryan 2017 - list-columns (Powerpoint) - <https://speakerdeck.com/jennybc/putting-square-pegs-in-round-holes-using-list-cols-in-your-dataframe>
+-   Bryan nd, purrr \[R package\] tutorial - <https://jennybc.github.io/purrr-tutorial/>
+
+Data linkage
+------------
+
+-   Christen, P 2012, Data Matching - Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection, Springer
+-   Harron,?K, Goldstein, H,?Dibben, C, 2015 Methodological Developments in Data Linkage, Wiley
+-   Sayers et al. 2015, Probabilistic record linkage,?International journal of epidemiology,?45(3), pp.954-964 - <https://academic.oup.com/ije/article/45/3/954/2572621>
+-   Schmidlin et al. 2013, Impact of unlinked deaths and coding changes on mortality trends in the Swiss National Cohort,?BMC medical informatics and decision making,?13(1), p.1. - <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-13-1>
+
+### Data linkage problems
+
+-   Bohenskyet al 2010. Data Linkage: A powerful research tool with potential problems. BMC Health Services Research
+-   Goldstein et al. 2012, The analysis of record-linked data using multiple imputation with data value priors, Stat Med;31(28):3481-3493 - <https://onlinelibrary.wiley.com/doi/full/10.1002/sim.5508>
+-   Harron et al. 2014, Evaluating bias due to data linkage error in electronic healthcare records, BMC Med Res Method; 14(1): 36 - <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4015706/>
+
+Dates and times
+---------------
+
+-   Grolemund and Wickham (2017), R for Data Science (Chapter 16: Dates and times) - <http://r4ds.had.co.nz/dates-and-times.html>
+
+Missing data
+------------
+
+-   Seaman and White 2011, Review of inverse probability weighting for dealing with missing data, Statistical Methods in Medical Research 22(3) 278-295 - <https://www.ncbi.nlm.nih.gov/pubmed/21220355>
+-   Soley-Bori, M. (2013) Dealing with missing data: Key assumptions and methods for applied analysis. Technical Report No 4 - <https://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf>
+-   Allison 2012, Handling Missing Data by Maximum Likelihood, SAS Global Forum 2012, Paper 312-2012 - <http://www.statisticalhorizons.com/wp-content/uploads/MissingDataByML.pdf> M- edeiros 2016, Handling missing data in Stata: Imputation and likelihood-based approaches, 2016 Swiss Stata Users Group meeting (powerpoint) - <https://www.stata.com/meeting/switzerland16/slides/medeiros-switzerland16.pdf>
+
+Data visualization
+------------------
+
+-   Matejka and Fitzmaurice 2017 - Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing - <https://www.autodeskresearch.com/publications/samestats>
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 3: Data visualisation) - <http://r4ds.had.co.nz/data-visualisation.html>
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 28: Graphics for communication) - <http://r4ds.had.co.nz/graphics-for-communication.html>
+-   Cleveland 1985, The Elements of Graphing Data 2nd Edition, Hobart Press
+-   Wickham 2012, Stat 405 Lecture 20: Effective Visualization - <http://stat405.had.co.nz/lectures/20-effective-vis.pdf>
+
+Analysing administrative data
+-----------------------------
+
+-   Angrist and Pischke 2008, Mostly Harmless Econometrics: An Empiricist's Companion
+-   Hand 2018, Statistical challenges of administrative and transaction data, J.R.Statist.Soc - <https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12315>
+-   Connelly et al 2016, The role of administrative data in the big data revolution in social science research, Social Science Research - <http://dx.doi.org/10.1016/j.ssresearch.2016.04.015>
+-   Iacus et al 2011, Causal Inference without Balance Checking: Coarsened Exact Matching - <doi:10.1093/pan/mpr013>
