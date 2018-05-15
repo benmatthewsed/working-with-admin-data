@@ -60,7 +60,7 @@ Workflow
 
 ### Keyboard shortcuts
 
--   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press Alt+Shift+K in RStudio)
+-   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press `Alt+Shift+K` in RStudio)
 -   Higgs 2014, Keyboard shortcuts for Stata/IC 13 - <http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/>
 
 ### R's pipe operator `%>%`
