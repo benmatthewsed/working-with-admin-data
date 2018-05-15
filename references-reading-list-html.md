@@ -67,7 +67,7 @@ Workflow
 ### R's pipe operator `%>%`
 
 -   Bache 2014, Magrittr Vignette - <https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html>
--   Grolemund and Wickham 2017, R for Data Science (Chapter 18: Pipes) - r4ds.had.co.nz/pipes.html\#pipes
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 18: Pipes) - <http://r4ds.had.co.nz/pipes>
 
 ### Literate programming
 
