@@ -8,19 +8,25 @@ Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
 Welcome!
 ========
 
-We (Zhiqiang, Lynne and Ben) compiled these resources whilst writing the ADRC-Scotland course *Working with Administrative Data* in 2017. The practical side of the course focused on data manipulation, visualization and the potential pitfalls specific to analysing routinely collected data in the social sciences. (You can see the course website at <http://adrc-s-intro-to-data-linkage-course.weebly.com/>)
+We (Zhiqiang, Lynne and Ben) compiled these resources whilst writing the ADRC-Scotland course *Working with Administrative Data* in 2017. The practical side of the course focused on data manipulation, visualization and the potential pitfalls specific to analysing routinely collected data in the social sciences. You can see the 2017 course website at <http://adrc-s-intro-to-data-linkage-course.weebly.com/>
 
-We hope that this list will be useful for those interested in attending the 2018 iteration of the course (and others!).
+We hope that this list will be useful for those interested in attending the 2018 iteration of the course and others.
 
-What follows is a pretty exhaustive list, so a good place to start are the course texts. We ran the course covering both R (<https://www.r-project.org/>) and Stata (<https://www.stata.com/>), so we have course texts listed for both programs. Much of the R material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below. The Stata side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the *Introduction to Stata* by UNC Carolina Population Centre and Stata Corp's *Resources for learning Stata*. The latter of these isn't a text as such, but is a great place to find information on how to get things done in Stata.
+What follows is a pretty exhaustive list (we don't expect course participants to read everything on here!), so a good place to start are the **course texts**. We ran the course covering both R (<https://www.r-project.org/>) and Stata (<https://www.stata.com/>), so we have course texts listed for both programs.
+
+Much of the **R** material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below.
+
+The **Stata** side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the *Introduction to Stata* by UNC Carolina Population Centre and Stata Corp's *Resources for learning Stata*. The latter of these isn't a text as such, but is a great place to find information on how to get things done in Stata.
 
 Course texts
 ------------
 
 ### R
 
--   Grolemund and Wickham 2017, R for Data Science - <http://r4ds.had.co.nz> \#\#\# Stata
--   UNC Carolina Population Centre nd, Introduction to Stata - <http://www.cpc.unc.edu/research/tools/data_analysis/statatutorial/>
+-   Grolemund and Wickham 2017, R for Data Science - <http://r4ds.had.co.nz>
+
+### Stata
+
 -   Stata Corp, Resources for learning Stata - <https://www.stata.com/links/resources-for-learning-stata/>
 
 Cheat sheets
@@ -28,13 +34,12 @@ Cheat sheets
 
 ### R
 
-<https://www.rstudio.com/resources/cheatsheets/>
+-   <https://www.rstudio.com/resources/cheatsheets/>
 
 ### Stata
 
-<https://geocenter.github.io/StataTraining/>
-
-<https://www.stata.com/links/resources-for-learning-stata/cheat-sheets/>
+-   <https://geocenter.github.io/StataTraining/>
+-   <https://www.stata.com/links/resources-for-learning-stata/cheat-sheets/>
 
 General texts
 -------------
@@ -59,9 +64,14 @@ Workflow
 
 ### Coding style
 
--   Cox 2005, Suggestions on Stata programming style - <http://www.stata-journal.com/sjpdf.html?articlenum=pr0018>
+#### R
+
 -   Wickham 2014, Style guide (Advanced R) - <http://adv-r.had.co.nz/Style.html>
 -   Wickham 2018, Tidyverse style guide - <http://style.tidyverse.org/>
+
+#### Stata
+
+-   Cox 2005, Suggestions on Stata programming style - <http://www.stata-journal.com/sjpdf.html?articlenum=pr0018>
 
 ### Iteration and Programming
 
@@ -79,7 +89,9 @@ Workflow
 
 ### Keyboard shortcuts
 
--   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press `Alt+Shift+K` in RStudio)
+#### R
+
+-   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press `Alt+Shift+K` in RStudio) \#\#\#\# Stata
 -   Higgs 2014, Keyboard shortcuts for Stata/IC 13 - <http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/>
 
 ### R's pipe operator `%>%`
@@ -113,9 +125,9 @@ Data linkage
 ------------
 
 -   Christen, P 2012, Data Matching - Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection, Springer
--   Harron,?K, Goldstein, H,?Dibben, C, 2015 Methodological Developments in Data Linkage, Wiley
--   Sayers et al. 2015, Probabilistic record linkage,?International journal of epidemiology,?45(3), pp.954-964 - <https://academic.oup.com/ije/article/45/3/954/2572621>
--   Schmidlin et al. 2013, Impact of unlinked deaths and coding changes on mortality trends in the Swiss National Cohort,?BMC medical informatics and decision making,?13(1), p.1. - <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-13-1>
+-   Harron,K, Goldstein, H, Dibben, C, 2015 Methodological Developments in Data Linkage, Wiley
+-   Sayers et al. 2015, Probabilistic record linkage,?International journal of epidemiology, 45(3), pp.954-964 - <https://academic.oup.com/ije/article/45/3/954/2572621>
+-   Schmidlin et al. 2013, Impact of unlinked deaths and coding changes on mortality trends in the Swiss National Cohort, BMC medical informatics and decision making, 13(1) - <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-13-1>
 
 ### Data linkage problems
 
