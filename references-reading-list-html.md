@@ -3,17 +3,16 @@ Working With Administrative Data Training Course - References
 ADRC-Scotland
 2018-06-26
 
-References/reading list for training course
-===========================================
-
 Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
 
 Welcome!
---------
+========
 
 We (Zhiqiang, Lynne and Ben) compiled these resources whilst writing the ADRC-Scotland course *Working with Administrative Data* in 2017. The practical side of the course focused on data manipulation, visualization and the potential pitfalls specific to analysing routinely collected data in the social sciences. (You can see the course website at <http://adrc-s-intro-to-data-linkage-course.weebly.com/>)
 
-We hope that this list will be useful for those interested in attending the 2018 iteration of the course (and others!). It is a pretty exhaustive list, so a good place to start are the course texts. We ran the course covering both R (<https://www.r-project.org/>) and Stata (<https://www.stata.com/>), so we have course texts listed for both programs. Much of the R material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below. The Stata side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the introductory guide to Stata by UNC Carolina Population Centre and Stata Corp's Resources for learning Stata. The latter of these isn't a text per se, but is a great place to find information on how to get things done in Stata.
+We hope that this list will be useful for those interested in attending the 2018 iteration of the course (and others!).
+
+What follows is a pretty exhaustive list, so a good place to start are the course texts. We ran the course covering both R (<https://www.r-project.org/>) and Stata (<https://www.stata.com/>), so we have course texts listed for both programs. Much of the R material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below. The Stata side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the *Introduction to Stata* by UNC Carolina Population Centre and Stata Corp's *Resources for learning Stata*. The latter of these isn't a text as such, but is a great place to find information on how to get things done in Stata.
 
 Course texts
 ------------
@@ -33,7 +32,9 @@ Cheat sheets
 
 ### Stata
 
-<https://geocenter.github.io/StataTraining/> <https://www.stata.com/links/resources-for-learning-stata/cheat-sheets/>
+<https://geocenter.github.io/StataTraining/>
+
+<https://www.stata.com/links/resources-for-learning-stata/cheat-sheets/>
 
 General texts
 -------------
