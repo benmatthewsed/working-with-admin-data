@@ -165,3 +165,8 @@ Analysing administrative data
 -   Hand 2018, Statistical challenges of administrative and transaction data, J.R.Statist.Soc - <https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12315>
 -   Connelly et al 2016, The role of administrative data in the big data revolution in social science research, Social Science Research - <http://dx.doi.org/10.1016/j.ssresearch.2016.04.015>
 -   Iacus et al 2011, Causal Inference without Balance Checking: Coarsened Exact Matching - <https://doi.org/10.1093/pan/mpr013>
+
+Common data quality problems
+----------------------------
+
+-   Quartz nd, The Quartz guide to bad data - <https://github.com/Quartz/bad-data-guide>
