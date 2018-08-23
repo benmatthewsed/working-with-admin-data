@@ -1,7 +1,7 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-06-26
+2018-08-23
 
 Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
 
@@ -157,6 +157,7 @@ Data visualization
 -   Grolemund and Wickham 2017, R for Data Science (Chapter 28: Graphics for communication) - <http://r4ds.had.co.nz/graphics-for-communication.html>
 -   Cleveland 1985, The Elements of Graphing Data 2nd Edition, Hobart Press
 -   Wickham 2012, Stat 405 Lecture 20: Effective Visualization - <http://stat405.had.co.nz/lectures/20-effective-vis.pdf>
+-   Healy 2018, Data Visualization: A Practical Introduction - <http://vissoc.co/>
 
 Analysing administrative data
 -----------------------------
