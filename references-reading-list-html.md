@@ -1,7 +1,7 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-08-23
+2018-09-06
 
 Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
 
@@ -109,6 +109,7 @@ Data Tidying
 -   Wickham 2014, Tidy Data, Journal of Statistical Software, 59 - <https://www.jstatsoft.org/article/view/v059i10>
 -   Grolemund and Wickham (2017), R for Data Science (Chapter 5: Data transformation) - <http://r4ds.had.co.nz/transform.html>
 -   Grace-Martin nd, The Wide and Long Data Format for Repeated Measures Data - <http://www.theanalysisfactor.com/wide-and-long-data/>
+-   StataCorp 2017, Data Management Reference Manual, Release 15 - <https://www.stata.com/bookstore/data-management-reference-manual/>
 
 ### Regular Expressions (regex)
 
