@@ -1,7 +1,7 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-09-06
+2018-10-09
 
 Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
 
@@ -17,6 +17,19 @@ What follows is a pretty exhaustive list (we don't expect course participants to
 Much of the **R** material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below.
 
 The **Stata** side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the *Introduction to Stata* by UNC Carolina Population Centre and Stata Corp's *Resources for learning Stata*. The latter of these isn't a text as such, but is a great place to find information on how to get things done in Stata.
+
+Recommended pre-reading
+-----------------------
+
+### R
+
+-   Ismay and Kennedy 2018, Getting used to R, RStudio, and R Markdown (Chapter 3: R and RStudio Basics) - <https://ismayc.github.io/rbasics-book/3-rstudiobasics.html>
+-   Ismay and KIm 2018, An Introduction to Statistical and Data Sciences via R (Chapter 2: Getting Started with Data in R) - <https://ismayc.github.io/moderndiver-book/2-getting-started.html>
+
+### Stata
+
+-   UCLA: Statistical Consulting Group nd, Fundamentals of Using Stata in Stata Learning Modules - <https://stats.idre.ucla.edu/stata/modules/>
+-   LSE nd, Stata tutorials (video) - <http://www.lse.ac.uk/Methodology/Software-tutorials/Stata-tutorials>
 
 Course texts
 ------------
