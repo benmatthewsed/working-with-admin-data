@@ -1,9 +1,9 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-10-09
+2018-10-15
 
-Materials complied by Zhiqiang Feng, Lynne Forrest and Ben Matthews.
+Materials complied by Zhiqiang Feng, Lynne Forrest, Beata Nowok and Ben Matthews.
 
 Welcome!
 ========
@@ -17,6 +17,24 @@ What follows is a pretty exhaustive list (we don't expect course participants to
 Much of the **R** material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below.
 
 The **Stata** side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the *Introduction to Stata* by UNC Carolina Population Centre and Stata Corp's *Resources for learning Stata*. The latter of these isn't a text as such, but is a great place to find information on how to get things done in Stata.
+
+Other materials we mentioned during the course
+----------------------------------------------
+
+-   Statistician Andrew Gelman's blog - <http://www.andrewgelman.com>
+-   An example of S and M errors is in Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
+-   (Bonus blog) Statistician Frank Harrell's blog - <http://www.fharrell.com/>
+-   (Bonus blog) Simply Statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek - <https://simplystatistics.org/>
+-   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
+-   (R only) For more discussion of good practical in workflow, Bryan and Hester *in progress*, What They Forgot to Teach You About R - <https://whattheyforgot.org/>
+-   The R package `geofacet` let's you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
+
+### Causal inference
+
+Many thanks to Sohelia Aghlmandi for recommending the following:
+- Chapters One and Two in Hernán and Robins 2018, Causal Inference - <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/2015/>
+- Lessons One and Two in the online course Hernán nd, Causal Diagrams: Draw Your Assumptions Before Your Conclusions - <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
+- The training course *Causal inference in observational epidemiology* which runs at the Swiss Epidemiology Winter School (<https://www.epi-winterschool.org/>) and the Erasmus Summer Programme (<https://erasmussummerprogramme.nl/>)
 
 Recommended pre-reading
 -----------------------
