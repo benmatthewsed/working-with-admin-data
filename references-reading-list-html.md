@@ -8,33 +8,15 @@ Materials complied by Zhiqiang Feng, Lynne Forrest, Beata Nowok and Ben Matthews
 Welcome!
 ========
 
-We (Zhiqiang, Lynne and Ben) compiled these resources whilst writing the ADRC-Scotland course *Working with Administrative Data* in 2017. The practical side of the course focused on data manipulation, visualization and the potential pitfalls specific to analysing routinely collected data in the social sciences. You can see the 2017 course website at <http://adrc-s-intro-to-data-linkage-course.weebly.com/>
+We (Zhiqiang, Lynne, Beata and Ben) originally compiled these resources whilst writing the ADRC-Scotland course *Working with Administrative Data* in 2017. The practical side of the course focused on data manipulation, visualization and the potential pitfalls specific to analysing routinely collected data in the social sciences. We have since run the course again and have updated the list below with additional materials we discussed with participants on the 2018 edition of the course.
 
-We hope that this list will be useful for those interested in attending the 2018 iteration of the course and others.
+You can see the course website at <http://adrc-s-intro-to-data-linkage-course.weebly.com/>.
 
 What follows is a pretty exhaustive list (we don't expect course participants to read everything on here!), so a good place to start are the **course texts**. We ran the course covering both R (<https://www.r-project.org/>) and Stata (<https://www.stata.com/>), so we have course texts listed for both programs.
 
 Much of the **R** material in the course was based on Grolemund and Wickham's *R for Data Science* (2017), and a number of chapters from this book are listed under the course topics below.
 
 The **Stata** side of the course drew on a wider range of materials, and so we've selected two as course 'texts' - the *Introduction to Stata* by UNC Carolina Population Centre and Stata Corp's *Resources for learning Stata*. The latter of these isn't a text as such, but is a great place to find information on how to get things done in Stata.
-
-Other materials we mentioned during the course
-----------------------------------------------
-
--   Statistician Andrew Gelman's blog - <http://www.andrewgelman.com>
--   An example of S and M errors is in Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
--   (Bonus blog) Statistician Frank Harrell's blog - <http://www.fharrell.com/>
--   (Bonus blog) Simply Statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek - <https://simplystatistics.org/>
--   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
--   (R only) For more discussion of good practical in workflow, Bryan and Hester *in progress*, What They Forgot to Teach You About R - <https://whattheyforgot.org/>
--   The R package `geofacet` let's you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
-
-### Causal inference
-
-Many thanks to Sohelia Aghlmandi for recommending the following:
-- Chapters One and Two in Hernán and Robins 2018, Causal Inference - <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/2015/>
-- Lessons One and Two in the online course Hernán nd, Causal Diagrams: Draw Your Assumptions Before Your Conclusions - <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
-- The training course *Causal inference in observational epidemiology* which runs at the Swiss Epidemiology Winter School (<https://www.epi-winterschool.org/>) and the Erasmus Summer Programme (<https://erasmussummerprogramme.nl/>)
 
 Recommended pre-reading
 -----------------------
@@ -122,7 +104,10 @@ Workflow
 
 #### R
 
--   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press `Alt+Shift+K` in RStudio) \#\#\#\# Stata
+-   RStudio 2018, Keyboard Shortcuts - <https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts> (or press `Alt+Shift+K` in RStudio)
+
+#### Stata
+
 -   Higgs 2014, Keyboard shortcuts for Stata/IC 13 - <http://www.carlhiggs.com/2014/04/keyboard-shortcuts-for-stataic-13/>
 
 ### R's pipe operator `%>%`
@@ -199,7 +184,25 @@ Analysing administrative data
 -   Connelly et al 2016, The role of administrative data in the big data revolution in social science research, Social Science Research - <http://dx.doi.org/10.1016/j.ssresearch.2016.04.015>
 -   Iacus et al 2011, Causal Inference without Balance Checking: Coarsened Exact Matching - <https://doi.org/10.1093/pan/mpr013>
 
+### Causal inference
+
+Many thanks to Sohelia Aghlmandi for recommending the following:
+- Chapters One and Two in Hernán and Robins 2018, Causal Inference - <https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/2015/>
+- Lessons One and Two in the online course Hernán nd, Causal Diagrams: Draw Your Assumptions Before Your Conclusions - <https://www.edx.org/course/causal-diagrams-draw-assumptions-harvardx-ph559x>
+- The training course *Causal inference in observational epidemiology* which runs at the Swiss Epidemiology Winter School (<https://www.epi-winterschool.org/>) and the Erasmus Summer Programme (<https://erasmussummerprogramme.nl/>)
+
 Common data quality problems
 ----------------------------
 
 -   Quartz nd, The Quartz guide to bad data - <https://github.com/Quartz/bad-data-guide>
+
+Other materials we mentioned during the course
+----------------------------------------------
+
+-   Statistician Andrew Gelman's blog - <http://www.andrewgelman.com>
+-   An example of S and M errors is in Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
+-   (Bonus blog) Statistician Frank Harrell's blog - <http://www.fharrell.com/>
+-   (Bonus blog) Simply Statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek - <https://simplystatistics.org/>
+-   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
+-   (R only) For more discussion of good practical in workflow, Bryan and Hester *in progress*, What They Forgot to Teach You About R - <https://whattheyforgot.org/>
+-   The R package `geofacet` let's you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
