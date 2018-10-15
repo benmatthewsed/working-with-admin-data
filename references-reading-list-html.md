@@ -21,11 +21,11 @@ The **Stata** side of the course drew on a wider range of materials, and so we'v
 Other materials we mentioned during the course
 ----------------------------------------------
 
--   Statistician Andrew Gelman's blog - <http://www.andrewgelman.com>
--   An example of S and M errors is in Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
--   (Bonus blog) Statistician Frank Harrell's blog - <http://www.fharrell.com/>
+-   Statistician Andrew Gelman's blog - <http://www.andrewgelman.com>
+-   An example of S and M errors is in Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
+-   (Bonus blog) Statistician Frank Harrell's blog - <http://www.fharrell.com/>
 -   (Bonus blog) Simply Statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek - <https://simplystatistics.org/>
--   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
+-   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
 -   (R only) For more discussion of good practical in workflow, Bryan and Hester *in progress*, What They Forgot to Teach You About R - <https://whattheyforgot.org/>
 -   The R package `geofacet` let's you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
 
