@@ -123,7 +123,7 @@ Data Tidying
 ------------
 
 -   Wickham 2014, Tidy Data, Journal of Statistical Software, 59 - <https://www.jstatsoft.org/article/view/v059i10>
--   Grolemund and Wickham (2017), R for Data Science (Chapter 5: Data transformation) - <http://r4ds.had.co.nz/transform.html>
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 5: Data transformation) - <http://r4ds.had.co.nz/transform.html>
 -   Grace-Martin nd, The Wide and Long Data Format for Repeated Measures Data - <http://www.theanalysisfactor.com/wide-and-long-data/>
 -   StataCorp 2017, Data Management Reference Manual, Release 15 - <https://www.stata.com/bookstore/data-management-reference-manual/>
 
@@ -134,17 +134,18 @@ Data Tidying
 
 ### R only - manipulating lists
 
--   Grolemund and Wickham (2017), R for Data Science (Chapter 25: Many models) - <http://r4ds.had.co.nz/many-models.html>
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 25: Many models) - <http://r4ds.had.co.nz/many-models.html>
 -   Bryan 2017 - list-columns (Powerpoint) - <https://speakerdeck.com/jennybc/putting-square-pegs-in-round-holes-using-list-cols-in-your-dataframe>
 -   Bryan nd, purrr \[R package\] tutorial - <https://jennybc.github.io/purrr-tutorial/>
 
 Data linkage
 ------------
 
--   Christen, P 2012, Data Matching - Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection, Springer
--   Harron,K, Goldstein, H, Dibben, C, 2015 Methodological Developments in Data Linkage, Wiley
+-   Christen 2012, Data Matching - Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection, Springer
+-   Harron, Goldstein and Dibben 2015, Methodological Developments in Data Linkage, Wiley
 -   Sayers et al. 2015, Probabilistic record linkage,?International journal of epidemiology, 45(3), pp.954-964 - <https://academic.oup.com/ije/article/45/3/954/2572621>
 -   Schmidlin et al. 2013, Impact of unlinked deaths and coding changes on mortality trends in the Swiss National Cohort, BMC medical informatics and decision making, 13(1) - <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-13-1>
+-   Christen 2014 - Record Linkage Workshop at ADRC-Scotland (series of four videos) <https://www.youtube.com/watch?v=DyGonV7A_EY>
 
 ### Data linkage problems
 
@@ -155,7 +156,7 @@ Data linkage
 Dates and times
 ---------------
 
--   Grolemund and Wickham (2017), R for Data Science (Chapter 16: Dates and times) - <http://r4ds.had.co.nz/dates-and-times.html>
+-   Grolemund and Wickham 2017, R for Data Science (Chapter 16: Dates and times) - <http://r4ds.had.co.nz/dates-and-times.html>
 -   Stata Corp nd, Working with dates and times <https://www.stata.com/manuals13/u24.pdf>
 
 Missing data
