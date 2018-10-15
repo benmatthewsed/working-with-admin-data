@@ -200,7 +200,8 @@ Other materials we mentioned during the course
 ----------------------------------------------
 
 -   Statistician Andrew Gelman's blog - <http://www.andrewgelman.com>
--   An example of S and M errors is in Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
+-   Gelman and Carlin 2014, Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors - <http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf>
+-   Gelman, Skardhamar and Aaltonen 2017, Type M error might explain Weisburd’s Paradox - <http://www.stat.columbia.edu/~gelman/research/published/weisburd_28.05.2017.pdf>
 -   (Bonus blog) Statistician Frank Harrell's blog - <http://www.fharrell.com/>
 -   (Bonus blog) Simply Statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek - <https://simplystatistics.org/>
 -   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
