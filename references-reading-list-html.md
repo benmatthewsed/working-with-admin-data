@@ -1,7 +1,7 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-10-15
+2018-11-15
 
 Materials complied by Zhiqiang Feng, Lynne Forrest, Beata Nowok and Ben Matthews.
 
@@ -145,7 +145,11 @@ Data linkage
 -   Harron, Goldstein and Dibben 2015, Methodological Developments in Data Linkage, Wiley
 -   Sayers et al. 2015, Probabilistic record linkage,?International journal of epidemiology, 45(3), pp.954-964 - <https://academic.oup.com/ije/article/45/3/954/2572621>
 -   Schmidlin et al. 2013, Impact of unlinked deaths and coding changes on mortality trends in the Swiss National Cohort, BMC medical informatics and decision making, 13(1) - <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-13-1>
--   Christen 2014 - Record Linkage Workshop at ADRC-Scotland (series of four videos) <https://www.youtube.com/watch?v=DyGonV7A_EY>
+-   Christen 2014 - "Record Linkage: Introduction, recent advances, and privacy issues" Workshop at ADRC-Scotland (series of four videos):
+    -   Introduction - <https://www.youtube.com/watch?v=DyGonV7A_EY>
+    -   Record linkage process - <https://www.youtube.com/watch?v=dcNTvYDdun0>
+    -   Advanced record linkage techniques - <https://www.youtube.com/watch?v=HAKW5tHVCmw>
+    -   Privacy aspects in record linkage - <https://www.youtube.com/watch?v=4Iv5axrAWqQ>
 
 ### Data linkage problems
 
