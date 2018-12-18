@@ -1,7 +1,7 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-11-15
+2018-12-18
 
 Materials complied by Zhiqiang Feng, Lynne Forrest, Beata Nowok and Ben Matthews.
 
@@ -211,4 +211,4 @@ Other materials we mentioned during the course
 -   (Bonus blog) Simply Statistics blog by Rafa Irizarry, Roger Peng, and Jeff Leek - <https://simplystatistics.org/>
 -   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
 -   (R only) For more discussion of good practical in workflow, Bryan and Hester *in progress*, What They Forgot to Teach You About R - <https://whattheyforgot.org/>
--   The R package `geofacet` let's you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
+-   The R package `geofacet` lets you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
