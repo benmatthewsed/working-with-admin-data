@@ -1,7 +1,7 @@
 Working With Administrative Data Training Course - References
 ================
 ADRC-Scotland
-2018-12-18
+2018-12-20
 
 Materials complied by Zhiqiang Feng, Lynne Forrest, Beata Nowok and Ben Matthews.
 
@@ -212,3 +212,4 @@ Other materials we mentioned during the course
 -   (R only) For more in-depth R programming, Wickham *in progress*, Advanced R - <https://adv-r.hadley.nz/>
 -   (R only) For more discussion of good practical in workflow, Bryan and Hester *in progress*, What They Forgot to Teach You About R - <https://whattheyforgot.org/>
 -   The R package `geofacet` lets you present multiple plots arranged geographically - <https://hafen.github.io/geofacet/>
+-   Some of the issues discussed in our data provenance session are covered in D’Ignazio and Klein *forthcoming*, Data Feminism - <https://bookbook.pubpub.org/data-feminism>
