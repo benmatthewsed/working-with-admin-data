@@ -1,6 +1,6 @@
 ---
 title: "Working With Administrative Data Training Course - References"
-author: "ADRC-Scotland"
+author: ""
 date: "`r Sys.Date()`"
 output: github_document
 ---
@@ -119,6 +119,8 @@ https://www.birmingham.ac.uk/Documents/college-social-sciences/business/economic
 - Grolemund and Wickham 2017, R for Data Science (Chapter 5: Data transformation) - http://r4ds.had.co.nz/transform.html
 - Grace-Martin nd, The Wide and Long Data Format for Repeated Measures Data - http://www.theanalysisfactor.com/wide-and-long-data/
 - StataCorp 2017, Data Management Reference Manual, Release 15 - https://www.stata.com/bookstore/data-management-reference-manual/
+- _For an introduction to the new_ `pivot_wider` _and_ `pivot_longer` _functions in_ `{tidyr} 1.0.0` _see Simpson 2019 Pivoting tidily -_  https://www.fromthebottomoftheheap.net/2019/10/25/pivoting-tidily/
+
 
 ### Regular Expressions (regex)
 - Li and Bryan 2014, Regular Expression in R - http://stat545.com/block022_regular-expression.html
